@@ -7,7 +7,7 @@
 It's my first time programming with threads in Python
 
 
-Sistema de reserva de assentos em um cinema com 2 salas
+Sistema de reserva de assentos em um cinema com 2 sala de 5 assentos cada.
 
 1. Garantir que não haverá reserva de um mesmo assento por 2 clientes diferentes
 2. Cada sala é reresentada por 1 thread
